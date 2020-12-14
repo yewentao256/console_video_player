@@ -1,1 +1,5 @@
-# console_video_player
+# ConsoleVideoPlayer控制台视频播放器
+
+## 介绍
+
+基于opencv库的控制台视频播放器，将视频解码并在控制台以字符形式输出，可调节帧率、视频大小等
