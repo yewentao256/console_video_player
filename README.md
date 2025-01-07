@@ -1,5 +1,11 @@
-# ConsoleVideoPlayer控制台视频播放器
+# Console Video Player
 
-## 介绍
+## Introduction
 
-基于opencv库的控制台视频播放器，将视频解码并在控制台以字符形式输出，可调节帧率、视频大小等
+A console-based video player that decodes video using the OpenCV library and displays it in the console using characters. Adjustable options include frame rate, video size, and more.
+
+## Result
+
+![image](images/image1.png)
+
+![image](images/image2.png)
